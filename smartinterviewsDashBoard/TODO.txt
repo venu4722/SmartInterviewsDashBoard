@@ -1,0 +1,3 @@
+sort scores based on marks
+add validation rules for all the platforms
+validate the links whether the username exists or not

@@ -1,0 +1,14 @@
+{
+  "leetcode" : {
+                "easy": 30,
+                "medium": 50,
+                "hard" : 70
+                },
+  "gfg"      : {
+                "school": 10,
+                "basic" : 20,
+                "easy"  : 30,
+                "medium": 50,
+                "hard"  : 70
+                }
+}
